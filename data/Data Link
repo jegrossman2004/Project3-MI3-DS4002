@@ -1,3 +1,6 @@
 Click here to access data:
 
 https://huggingface.co/datasets/Rajarshi-Roy-research/Defactify_Image_Dataset
+
+
+We ran our models on the pixel values of the images. In order to obtain these pixel values, the script in our scripts folder will need to be run, as it is too large to be saved or uploaded to GitHub
