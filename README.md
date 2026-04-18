@@ -1,11 +1,16 @@
-# DS4002 Data Science Projects - Template
+## Section 1: Software and platform
 
-This repository serves as a template for DS4002 student research project repositories. When creating your project repository, you may use this template to establish the required folder structure.
+We used Jupyter Notebooks via Google Colab for this project. Nothing needs to be installed outside of what is in the .ipynb file in the scripts folder. Windows was used for every aspect of this project
 
-Once your repository is created, replace this README.md file with your project-specific README, following the specifications provided on Canvas.
 
-The purpose and expected contents of the scripts, output, and data folders are described in the MI3 rubric (available on Canvas).
+## Section 2: Documentation Map
 
-Remember to include a LICENSE.md file in your repository.
-
-**Before submitting, review your repository to ensure its organization and contents meet the project specifications. You will submit the URL of your repository on Canvas.**
+- LICENSE.md
+- README.md
+scripts:
+  - MI3Code.ipynb
+output:
+  - Project 3 MI3-Outputs.pdf
+data:
+  - Data Link
+  - Data Appendix Project_3.pdf
