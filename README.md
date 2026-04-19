@@ -10,6 +10,7 @@ We used Jupyter Notebooks via Google Colab for this project. Nothing needs to be
 
 scripts:
   - MI3Code.ipynb
+  - IMPORTANT!
 
 output:
   - Project 3 MI3-Outputs.pdf
